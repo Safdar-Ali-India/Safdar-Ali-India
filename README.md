@@ -7,7 +7,7 @@ I am 23 years old and IT graduate who loves everything about front-end developme
 - 🖥️ I’m currently working as a Full Stack Developer. 
 - 🧠 I’m currently learning more about Next.js framework
 - ✉ You can reach me via 00alisafdar@gmail.com
-- ⚡ Fun fact: I love to code🧑‍💻 and use Apple products
+- ⚡ Fun fact: I love to code🧑‍💻 and use latest products
 
 ### 🚀 Skills
 
