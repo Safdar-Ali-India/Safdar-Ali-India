@@ -48,3 +48,10 @@ I am 23 years old and IT graduate who loves everything about front-end developme
 </p>
 
  ![](https://komarev.com/ghpvc/?username=nsafarova&color=blueviolet&label=Profile+Views)
+
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ArjunCodess/count.svg?"  />
+</div>
