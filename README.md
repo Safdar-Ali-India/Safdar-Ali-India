@@ -53,5 +53,5 @@ I am 23 years old and IT graduate who loves everything about front-end developme
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ArjunCodess/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Safdar-Ali-India/count.svg?"  />
 </div>
