@@ -53,11 +53,11 @@ I am 23 years old and IT graduate who loves everything about front-end developme
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Safdar-Ali-India/count.svg?"  />
-</div>
-<div align="center">
  
 ![image](https://github.com/user-attachments/assets/f372b8e9-6518-49c4-a052-4ef72a086e05)
 
 
+</div>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Safdar-Ali-India/count.svg?"  />
 </div>
