@@ -60,7 +60,4 @@ I am 23 years old and IT graduate who loves everything about front-end developme
 ![image](https://github.com/user-attachments/assets/f372b8e9-6518-49c4-a052-4ef72a086e05)
 
 
-
- https://www.holopin.io/@safdaraliindia#badges 
-
 </div>
