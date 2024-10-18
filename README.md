@@ -56,7 +56,10 @@ I am 23 years old and IT graduate who loves everything about front-end developme
   <img src="https://profile-counter.glitch.me/Safdar-Ali-India/count.svg?"  />
 </div>
 <div align="center">
-	![image](https://github.com/user-attachments/assets/1a8e96bf-431e-43af-a4d9-4dc2408936ff)
+ 
+![image](https://github.com/user-attachments/assets/f372b8e9-6518-49c4-a052-4ef72a086e05)
+
+
 
  https://www.holopin.io/@safdaraliindia#badges 
 
