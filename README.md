@@ -2,12 +2,13 @@
 
 ## Front-end Developer
 
-I am 24 years old and IT graduate who loves everything about front-end development. I am solution oriented, enthusiastic with a fondness for creating web applications and learning more every day.  
+I am 25 years old and IT graduate who loves everything about front-end development. I am solution oriented, enthusiastic with a fondness for creating web applications and learning more every day.  
 
 - 🖥️ I’m currently working as a Full Stack Developer. 
 - 🧠 I’m currently learning more about Next.js framework
 - ✉ You can reach me via 00alisafdar@gmail.com
 - ⚡ Fun fact: I love to code🧑‍💻 and use latest products
+- 🧭 I love exploring and working both in frontend and backend.
 
 ### 🚀 Skills
 
