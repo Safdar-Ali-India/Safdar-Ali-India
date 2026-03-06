@@ -2,7 +2,7 @@
 
 ## Software Engineer (Frontend UI Developer)
 
-I am a 25-year-old IT graduate passionate about front-end development. I enjoy building modern web applications and continuously learning new technologies.
+I am a 25-year-old IT graduate passionate about front-end development. I am solution oriented, enthusiastic with a fondness for creating web applications and learning more every day.
 
 - 💼 I’m currently working as a Frontend Developer at Cube, a Sequoia Capital–backed startup. 
 - 🧠 I’m currently learning more about Advanced Next.js framework & System Design
