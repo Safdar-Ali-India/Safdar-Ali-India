@@ -1,6 +1,6 @@
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> I'm Safdar.
 
-## About Me
+## Software Engineer (Frontend UI Developer)
 
 I am a 25-year-old IT graduate passionate about front-end development. I enjoy building modern web applications and continuously learning new technologies.
 
@@ -47,8 +47,10 @@ I am a 25-year-old IT graduate passionate about front-end development. I enjoy b
 ### 📃 Certificates
 
 <p align="left"> 
-    <a href=""C:\Users\payfi\Downloads\Coursera MetaFrontEndDeveloper_SafdarAlj.pdf"" target="_blank"> <img src="https://images.credly.com/size/110x110/images/e91ed0b0-842b-417f-8d2f-b07535febdda/image.png"/> </a>
+    <a href="/" target="_blank"> <img src="https://images.credly.com/size/110x110/images/e91ed0b0-842b-417f-8d2f-b07535febdda/image.png"/> </a>
 </p>
+
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/10d038e8c6158ce1b99890876c0cfd463bc8eebdc02519d27f809283b91fdaa0/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6e73616661726f766126636f6c6f723d626c756576696f6c6574266c6162656c3d50726f66696c652b5669657773"><img src="https://camo.githubusercontent.com/10d038e8c6158ce1b99890876c0cfd463bc8eebdc02519d27f809283b91fdaa0/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6e73616661726f766126636f6c6f723d626c756576696f6c6574266c6162656c3d50726f66696c652b5669657773" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=nsafarova&amp;color=blueviolet&amp;label=Profile+Views" style="max-width: 100%;"></a></p>
 
 ###  📺 My Youtube Coding Channel
 
