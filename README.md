@@ -1,11 +1,11 @@
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> I'm Safdar.
 
-## Front-end Developer
+## About Me
 
-I am 25 years old and IT graduate who loves everything about front-end development. I am solution oriented, enthusiastic with a fondness for creating web applications and learning more every day.  
+I am a 25-year-old IT graduate passionate about front-end development. I enjoy building modern web applications and continuously learning new technologies.
 
-- 🖥️ I’m currently working as a Full Stack Developer. 
-- 🧠 I’m currently learning more about Next.js framework
+- 💼 I’m currently working as a Frontend Developer at Cube, a Sequoia Capital–backed startup. 
+- 🧠 I’m currently learning more about Advanced Next.js framework & System Design
 - ✉ You can reach me via 00alisafdar@gmail.com
 - ⚡ Fun fact: I love to code🧑‍💻 and use latest products
 - 🧭 I love exploring and working both in frontend and backend.
@@ -30,7 +30,7 @@ I am 25 years old and IT graduate who loves everything about front-end developme
     <a href="https://in.linkedin.com/in/safdar-ali-55b938182" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/linkedin.png" /></a>
 </p>
 
-<details> 
+<!-- <details> 
   <summary><b>📊 My Github Stats</b></summary>
   <br/>
   <p align="center">
@@ -40,7 +40,9 @@ I am 25 years old and IT graduate who loves everything about front-end developme
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=safdar-ali-india&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nneji123" height="192px"/>
   <br/>
   </p>
-</details>
+</details> -->
+
+ 
 
 ### 📃 Certificates
 
@@ -48,7 +50,13 @@ I am 25 years old and IT graduate who loves everything about front-end developme
     <a href=""C:\Users\payfi\Downloads\Coursera MetaFrontEndDeveloper_SafdarAlj.pdf"" target="_blank"> <img src="https://images.credly.com/size/110x110/images/e91ed0b0-842b-417f-8d2f-b07535febdda/image.png"/> </a>
 </p>
 
- ![](https://komarev.com/ghpvc/?username=nsafarova&color=blueviolet&label=Profile+Views)
+###  📺 My Youtube Coding Channel
+
+<p align="left">
+<a href="https://youtube.com/@safdarali">
+<img src="https://img.shields.io/badge/YouTube-Coding%20Tutorials-red?style=for-the-badge&logo=youtube"/>
+</a>
+</p>
 
 
 ###
@@ -59,6 +67,6 @@ I am 25 years old and IT graduate who loves everything about front-end developme
 
 
 </div>
-<div align="center">
+<!-- <div align="center">
   <img src="https://profile-counter.glitch.me/Safdar-Ali-India/count.svg?"  />
-</div>
+</div> -->
