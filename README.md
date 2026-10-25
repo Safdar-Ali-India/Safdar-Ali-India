@@ -55,7 +55,7 @@ I am a 25-year-old IT graduate passionate about front-end development. I am solu
 ###  📺 My Youtube Coding Channel
 
 <p align="left">
-<a href="https://youtube.com/@safdarali">
+<a href="https://youtube.com/@safdarali_">
 <img src="https://img.shields.io/badge/YouTube-Coding%20Tutorials-red?style=for-the-badge&logo=youtube"/>
 </a>
 </p>
