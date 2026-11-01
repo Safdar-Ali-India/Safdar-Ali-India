@@ -1,16 +1,22 @@
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> I'm Safdar.
 
+
 ## Software Engineer (Frontend UI Developer)
+ 
 
 ### 👨‍💻 About
 
-I'm **Safdar Ali**, a Frontend Engineer in **Bengaluru, India**. I ship product UI with Next.js and React — focused on performance, accessibility, and clean architecture.
+A Frontend Engineer in **Bengaluru, India**. I ship product UI with Next.js and React — focused on performance, accessibility, and clean architecture.
 
 - 💼 Frontend Developer at **Cube** (Sequoia Capital–backed)
 - ⚛️ React, Next.js, TypeScript, and modern frontend engineering
 - 🚀 Interested in AI-powered products, design systems, and web performance
 - 🧠 Currently exploring advanced Next.js patterns and system design
 - ✍️ 70+ coding tutorials · technical writing with 275K+ reads · 30+ projects shipped
+
+<p>
+  <i>Building fast, accessible, and maintainable web experiences.</i>
+</p>
 
 ---
 
@@ -98,10 +104,7 @@ I'm **Safdar Ali**, a Frontend Engineer in **Bengaluru, India**. I ship product 
 </div> -->
 
 
-<p>
-  Building fast, accessible, and maintainable web experiences.
-</p>
-
+ 
 <p>
   <a href="https://safdarali.in"><img src="https://img.shields.io/badge/Portfolio-safdarali.in-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
