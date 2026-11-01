@@ -2,32 +2,50 @@
 
 ## Software Engineer (Frontend UI Developer)
 
-I am a 25-year-old IT graduate passionate about front-end development. I am solution oriented, enthusiastic with a fondness for creating web applications and learning more every day.
+### 👨‍💻 About
 
-- 💼 I’m currently working as a Frontend Developer at Cube, a Sequoia Capital–backed startup. 
-- 🧠 I’m currently learning more about Advanced Next.js framework & System Design
-- ✉ You can reach me via 00alisafdar@gmail.com
-- ⚡ Fun fact: I love to code🧑‍💻 and use latest products
-- 🧭 I love exploring and working both in frontend and backend.
+I'm **Safdar Ali**, a Frontend Engineer in **Bengaluru, India**. I ship product UI with Next.js and React — focused on performance, accessibility, and clean architecture.
 
-### 🚀 Skills
+- 💼 Frontend Developer at **Cube** (Sequoia Capital–backed)
+- ⚛️ React, Next.js, TypeScript, and modern frontend engineering
+- 🚀 Interested in AI-powered products, design systems, and web performance
+- 🧠 Currently exploring advanced Next.js patterns and system design
+- ✍️ 70+ coding tutorials · technical writing with 275K+ reads · 30+ projects shipped
 
-<p align="left"> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" /> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img height="48" width="48" src="https://cdn.simpleicons.org/nextdotjs" /> </a> 
-    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/></a>
-    <a href="https://figma.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>    
+---
+
+### 🛠️ Technologies
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css" height="40" alt="JavaScript, TypeScript, HTML, CSS" />
 </p>
 
+**Frontend & UI**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,sass,materialui" height="40" alt="React, Next.js, Redux, Tailwind, Sass, Material UI" />
+</p>
+
+**Backend & Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,firebase,mongodb,graphql" height="40" alt="Node.js, PostgreSQL, Firebase, MongoDB, GraphQL" />
+</p>
+
+**Tools & Platforms**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,figma,vscode" height="40" alt="Git, GitHub, Docker, AWS, Vercel, Figma, VS Code" />
+</p>
+
+---
 ### 📱 Socials
 
 <p align="left"> 
     <a href="https://github.com/Safdar-Ali-India" target="_blank"> <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/> </a>
-    <a href="https://in.linkedin.com/in/safdar-ali-55b938182" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/linkedin.png" /></a>
+    <a href="https://in.linkedin.com/in/safdarali25" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/linkedin.png" /></a>
 </p>
 
 <!-- <details> 
@@ -72,3 +90,14 @@ I am a 25-year-old IT graduate passionate about front-end development. I am solu
 <!-- <div align="center">
   <img src="https://profile-counter.glitch.me/Safdar-Ali-India/count.svg?"  />
 </div> -->
+
+
+<p>
+  Building fast, accessible, and maintainable web experiences.
+</p>
+
+<p>
+  <a href="https://safdarali.in"><img src="https://img.shields.io/badge/Portfolio-safdarali.in-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
+
+</div>
